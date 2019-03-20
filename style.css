@@ -1,0 +1,23 @@
+h2 {
+  color: rgb(198,83,161);
+	font-size: 30px;
+	font-family: Helvetica;
+}
+h1 {
+	color: purple;
+	font-size:100px;
+	font-variant: small-caps;
+	font-style: oblique;
+	filter: drop-shadow(pink)
+}
+
+li{
+	color: purple;
+	filter: drop-shadow(pink);
+}
+
+.shadowbox{
+	width: 1000px;
+	background-color: pink;
+	border-radius: 20px;
+}
